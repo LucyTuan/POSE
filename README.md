@@ -1,4 +1,5 @@
 # POSE
+This project is a collaborative effort by Lucy Tuan and Henry Tsui.
 
 ## Project Demo
 
